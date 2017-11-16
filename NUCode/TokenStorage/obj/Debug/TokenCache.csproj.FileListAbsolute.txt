@@ -1,0 +1,2 @@
+C:\Users\KStringer\Documents\GitHub\NUCode\NUCode\TokenStorage\obj\Debug\TokenCache.csprojResolveAssemblyReference.cache
+C:\Users\KStringer\Documents\GitHub\NUCode\NUCode\TokenStorage\obj\Debug\TokenCache.csproj.CoreCompileInputs.cache
